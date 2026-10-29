@@ -41,7 +41,7 @@ Open the [public HealthLens AI URL](https://healthlens-ai-nrheqybkq8fxgjwxq3ez9u
 
 ---
 
-## Future Enhancements
+## Future  Enhancements
 
 - Support for prescription uploads and analysis.
 - Support for additional medical reports.
