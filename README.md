@@ -3,7 +3,7 @@
 
 ## Project Summary
 
-HealthLens AI is an AI-powered healthcare prototype that predicts potential health risks using machine learning and analyzes uploaded blood reports to provide understandable health insights and explanations.
+HealthLens AI is an AI - Powered healthcare prototype that predicts potential health risks using machine learning and analyzes uploaded blood reports to provide understandable health insights and explanations.
 
 **Live Demo:** [Open HealthLens AI](https://healthlens-ai-nrheqybkq8fxgjwxq3ez9u.streamlit.app/)
 
